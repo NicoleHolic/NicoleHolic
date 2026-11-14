@@ -1,14 +1,16 @@
-## Hi there 👋
-
 <table>
   <tr>
-    <td>Contacts</td>
-    <td>
+    <td width="500">Contacts</td>
+    <td width="9999">
       <a href="https://discord.com/users/422018050976514070"><img src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white&color=%235865F2"/></a>
       <a href="https://steamcommunity.com/id/15162040160605"><img src="https://img.shields.io/badge/Steam-blue?logo=steam&logoColor=white&color=%23032469"></a>
     </td>
-    <td>About</td>
-    <td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td width="700">About</td>
+    <td width="9999">
       <img src="https://img.shields.io/badge/Godot-blue?logo=godotengine&logoColor=white&color=%23478CBF"/>
       <img src="https://img.shields.io/badge/dotnet-blue?logo=dotnet&logoColor=white&color=%23512BD4"/>
       <img src="https://img.shields.io/badge/Arch-blue?logo=archlinux&logoColor=white&color=%231793D1"/>
